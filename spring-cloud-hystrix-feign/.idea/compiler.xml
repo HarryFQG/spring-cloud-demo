@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_consumer" />
+        <module name="basic_consumer2" />
+        <module name="basic_provider1" />
+        <module name="basic_provider2" />
+        <module name="spring-cloud" />
+        <module name="spring-cloud (1)" />
+        <module name="spring-cloud-hystrix-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic_consumer" target="1.8" />
+      <module name="basic_consumer2" target="1.8" />
+      <module name="basic_provider1" target="1.8" />
+      <module name="basic_provider2" target="1.8" />
+      <module name="spring-cloud" target="1.8" />
+      <module name="spring-cloud (1)" target="1.8" />
+      <module name="spring-cloud-hystrix-feign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

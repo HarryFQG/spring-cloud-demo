@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/basic_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/basic_consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/basic_provider1/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-hystrix1/pom.xml" />
+        <option value="$PROJECT_DIR$/basic_provider2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic_consumer/basic_consumer.iml" filepath="$PROJECT_DIR$/basic_consumer/basic_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_consumer2/basic_consumer2.iml" filepath="$PROJECT_DIR$/basic_consumer2/basic_consumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_provider1/basic_provider1.iml" filepath="$PROJECT_DIR$/basic_provider1/basic_provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_provider2/basic_provider2.iml" filepath="$PROJECT_DIR$/basic_provider2/basic_provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-hystrix1/spring-cloud.iml" filepath="$PROJECT_DIR$/ribbon-hystrix1/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-hystrix.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/spring-cloud-hystrix-feign.iml" filepath="$PROJECT_DIR$/feign/spring-cloud-hystrix-feign.iml" />
+    </modules>
+  </component>
+</project>
